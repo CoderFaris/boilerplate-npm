@@ -1,6 +1,9 @@
 {
 	"author" : "Faris",
 	"description" : "A random project",
+	"keywords" : ["freecodecamp", "random", "project"],
+	"license" : "MIT",
+	"version" : "1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
